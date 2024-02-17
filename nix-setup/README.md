@@ -9,10 +9,10 @@ With this, you can have nix install packages, set aliases, or whatever for like 
 ## Installer
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/main/nix-setup/nix-setup-system-wide-installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/krishnakumarg1984/nix-portable-utils/main/nix-setup/nix-setup-system-wide-installer.sh)
 ```
 ## Uninstaller
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/main/nix-setup/nix-setup-system-wide-uninstaller.sh)
+bash <(curl -s https://raw.githubusercontent.com/krishnakumarg1984/nix-portable-utils/main/nix-setup/nix-setup-system-wide-uninstaller.sh)
 ```

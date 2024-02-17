@@ -12,14 +12,14 @@ It gives you an option to create symlinks. When there are symlinks, you only got
 #### x86_64
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/main/installers/x86_64-universal-system-wide-installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/krishnakumarg1984/nix-portable-utils/main/installers/x86_64-universal-system-wide-installer.sh)
 ```
 
 #### aarch64
 
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/main/installers/aarch64-universal-system-wide-installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/krishnakumarg1984/nix-portable-utils/main/installers/aarch64-universal-system-wide-installer.sh)
 ```
 
 ### User Wide Installers
@@ -27,13 +27,13 @@ bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/
 #### x86_64
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/main/installers/x86_64-universal-user-wide-installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/krishnakumarg1984/nix-portable-utils/main/installers/x86_64-universal-user-wide-installer.sh)
 ```
 
 #### aarch64
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/main/installers/aarch64-universal-user-wide-installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/krishnakumarg1984/nix-portable-utils/main/installers/aarch64-universal-user-wide-installer.sh)
 ```
 
 ## Uninstallers
@@ -41,12 +41,12 @@ bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/
 ### System Wide
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/main/installers/universal-system-wide-uninstaller.sh)
+bash <(curl -s https://raw.githubusercontent.com/krishnakumarg1984/nix-portable-utils/main/installers/universal-system-wide-uninstaller.sh)
 ```
 
 ### User Wide
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/dnkmmr69420/nix-portable-utils/main/installers/universal-user-wide-uninstaller.sh)
+bash <(curl -s https://raw.githubusercontent.com/krishnakumarg1984/nix-portable-utils/main/installers/universal-user-wide-uninstaller.sh)
 ```
 
